@@ -25,7 +25,7 @@ export const STORE_STORY = {
 
 Berawal dari hobi bermain game dan seringnya bertukar akun dengan teman-teman, kami menyadari banyak pemain yang mencari akun berkualitas dengan harga terjangkau.
 
-Dengan modal kepercayaan dan pelayanan yang jujur, MAR Store mulai berkembang dari penjualan akun pribadi menjadi platform terpercaya yang telah melayani lebih dari 10.000 pelanggan.
+Dengan modal kepercayaan dan pelayanan yang jujur, MAR Store mulai berkembang dari penjualan akun pribadi menjadi platform terpercaya yang telah melayani banyak pelanggan.
 
 Kami berkomitmen untuk terus memberikan produk berkualitas, harga kompetitif, dan pelayanan terbaik untuk semua kebutuhan digital Anda.
 
@@ -55,11 +55,11 @@ export const LAINNYA_POSTERS = [
   {
     id: 'promo-1',
     // Judul poster
-    title: 'Promo Spesial Bulan Ini',
+    title: 'Harga topup',
     // Deskripsi singkat
-    description: 'Diskon hingga 50% untuk semua akun game!',
+    description: 'Topup game murah meriah!',
     // URL gambar poster
-    image: 'https://files.catbox.moe/yov61s.jpg',
+    image: 'https://i.ibb.co.com/hx4B2f9b/In-Collage-20260214-215941789.jpg',
     // Link jika poster diklik
     link: '',
     // Warna badge (opsional: 'red', 'blue', 'green', 'yellow', 'purple')
@@ -69,8 +69,8 @@ export const LAINNYA_POSTERS = [
   },
   {
     id: 'event-1',
-    title: 'Event Giveaway',
-    description: 'Ikuti giveaway berhadiah akun sultan gratis!',
+    title: 'DANA KAGET',
+    description: 'Ikuti saluran mar store dan gabung grubnya agar tidak ketinggalan dana kaget!',
     image: '', // Kosongkan jika belum ada gambar
     link: 'https://linktr.ee/mar_store',
     badgeColor: 'purple',
@@ -78,8 +78,8 @@ export const LAINNYA_POSTERS = [
   },
   {
     id: 'info-1',
-    title: 'Cara Order',
-    description: 'Panduan lengkap cara membeli di MAR Store',
+    title: 'Mar store menyediakan',
+    description: 'Jual beli akun freefire, mobile legends, roblox, mc/rekber, suntik sosmed, jasa pengamanan akun, japost, jasa cari akun, topup game',
     image: '',
     link: '',
     badgeColor: 'blue',
@@ -95,9 +95,9 @@ export const LAINNYA_POSTERS = [
 export const PRODUCT_IMAGES = {
   // Gambar untuk kategori akun (ditampilkan di halaman produk)
   categories: {
-    freefire: 'https://files.catbox.moe/yov61s.jpg',      // Ganti dengan gambar Free Fire
-    mobilelegends: 'https://files.catbox.moe/yov61s.jpg', // Ganti dengan gambar ML
-    roblox: 'https://files.catbox.moe/yov61s.jpg'         // Ganti dengan gambar Roblox
+    freefire: 'https://i.ibb.co.com/zWPJPF0s/3dbc8e72c27f1ab25550ee3374e48bec.jpg',      // Ganti dengan gambar Free Fire
+    mobilelegends: 'https://i.ibb.co.com/RKGTTq9/71d2141b6bedf4841528fce2c181597e.jpg', // Ganti dengan gambar ML
+    roblox: 'https://i.ibb.co.com/1YbzHxVq/6d966996c332777b1675e0fbb113203a.jpg'         // Ganti dengan gambar Roblox
   },
   
   // Gambar untuk setiap item stok (ditampilkan di detail stok)
