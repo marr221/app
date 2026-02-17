@@ -27,9 +27,9 @@ export interface ProductCategory {
 export const freeFireStock: StockItem[] = [
   {
     id: 'ff-001',
-    name: 'Akun FF Elite Pass S1-S50',
-    details: 'Level 70+, Elite Pass lengkap dari season 1-50, Senjata evo max, Pet langka',
-    price: 2500000,
+    name: '',
+    details: '',
+    price: '',
     status: 'sold'
   },
   {
