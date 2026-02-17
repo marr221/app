@@ -30,42 +30,42 @@ export const freeFireStock: StockItem[] = [
     name: 'Akun FF Elite Pass S1-S50',
     details: 'Level 70+, Elite Pass lengkap dari season 1-50, Senjata evo max, Pet langka',
     price: 2500000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'ff-002',
     name: 'Akun FF Sultan Bundle',
     details: 'Level 65+, 100+ bundle, 50+ senjata evo, Diamond 10K+',
     price: 1800000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'ff-003',
     name: 'Akun FF Pro Player',
     details: 'Level 80+, Rank Heroic, KD 5+, Bundle pro player, Senjata lengkap',
     price: 1200000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'ff-004',
     name: 'Akun FF Mid Tier',
     details: 'Level 50+, Elite Pass 10+, Bundle 30+, Senjata evo 5+',
     price: 500000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'ff-005',
     name: 'Akun FF Starter Pack',
     details: 'Level 30+, Elite Pass 5+, Bundle basic, Cocok untuk pemula',
     price: 150000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'ff-006',
     name: 'Akun FF Budget',
     details: 'Level 20+, Beberapa bundle, Harga terjangkau',
     price: 50000,
-    status: 'available'
+    status: 'sold'
   }
 ];
 
@@ -78,56 +78,56 @@ export const mobileLegendsStock: StockItem[] = [
     name: 'Akun ML Sultan Skin',
     details: 'Mythic Glory, 500+ skin, 50+ skin legend/sacred, Emote lengkap, Recall epic',
     price: 5000000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'ml-002',
     name: 'Akun ML Mythic Skins',
     details: 'Mythic rank, 300+ skin, 20+ skin epic limit, Starlight 50+',
     price: 3500000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'ml-003',
     name: 'Akun ML Pro Gamer',
     details: 'Mythic, 200+ skin, Skin marksman lengkap, Emote battle',
     price: 2000000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'ml-004',
     name: 'Akun ML Mid Tier',
     details: 'Legend/Mythic, 100+ skin, Starlight 20+, Hero lengkap',
     price: 800000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'ml-005',
     name: 'Akun ML Starter',
     details: 'Epic/Legend, 50+ skin, Hero 70+, Cocok belajar',
     price: 300000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'ml-006',
     name: 'Akun ML Budget',
     details: 'Master/Grandmaster, 20+ skin, Hero 50+, Harga murah',
     price: 100000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'ml-007',
     name: 'Akun ML Smurf',
     details: 'Rank rendah, Skin basic, Untuk smurf/push rank',
     price: 50000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'ml-008',
     name: 'Akun ML Newbie',
     details: 'Level 15+, Beberapa hero, Starter pack',
     price: 20000,
-    status: 'available'
+    status: 'sold'
   }
 ];
 
@@ -140,63 +140,63 @@ export const robloxStock: StockItem[] = [
     name: 'Akun Roblox Sultan',
     details: 'Robux 50K+, Limited items langka, Gamepass multiple games, Premium 5+ tahun',
     price: 1500000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'rb-002',
     name: 'Akun Roblox Rich',
     details: 'Robux 20K+, Limited items, Avatar lengkap, Multiple premium items',
     price: 800000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'rb-003',
     name: 'Akun Roblox Pro',
     details: 'Robux 10K+, Gamepass populer, Avatar keren, Level tinggi multiple games',
     price: 500000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'rb-004',
     name: 'Akun Roblox Mid',
     details: 'Robux 5K+, Beberapa gamepass, Avatar bagus, Aktif 2+ tahun',
     price: 250000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'rb-005',
     name: 'Akun Roblox Starter',
     details: 'Robux 1K+, Avatar custom, Beberapa items, Cocok pemula',
     price: 100000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'rb-006',
     name: 'Akun Roblox Basic',
     details: 'Robux 500+, Avatar basic, Items standar',
     price: 50000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'rb-007',
     name: 'Akun Roblox Budget',
     details: 'Robux 100+, Avatar simple, Harga terjangkau',
     price: 20000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'rb-008',
     name: 'Akun Roblox Fresh',
     details: 'Akun baru, Robux 50+, Siap custom',
     price: 5000,
-    status: 'available'
+    status: 'sold'
   },
   {
     id: 'rb-009',
     name: 'Akun Roblox Starter Pack',
     details: 'Akun kosong, Siap pakai, Harga paling murah',
     price: 2000,
-    status: 'available'
+    status: 'sold'
   }
 ];
 
