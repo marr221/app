@@ -112,7 +112,7 @@ export const PRODUCT_IMAGES = {
     'ff-006': '',
     
     // Mobile Legends
-    'ml-001': '',
+    'ml-001': 'https://i.ibb.co.com/YFxqtc9L/STOK-AKUN-ML-1-20260218-070730-0000.png',
     'ml-002': '',
     'ml-003': '',
     'ml-004': '',

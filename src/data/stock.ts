@@ -29,7 +29,7 @@ export const freeFireStock: StockItem[] = [
     id: 'ff-001',
     name: '',
     details: '',
-    price: '',
+    price: '1000',
     status: 'sold'
   },
   {
@@ -75,10 +75,10 @@ export const freeFireStock: StockItem[] = [
 export const mobileLegendsStock: StockItem[] = [
   {
     id: 'ml-001',
-    name: 'Akun ML Sultan Skin',
-    details: 'Mythic Glory, 500+ skin, 50+ skin legend/sacred, Emote lengkap, Recall epic',
-    price: 5000000,
-    status: 'sold'
+    name: 'Akun entry-mid',
+    details: 'High rank honor 43, roger transformers, tamuz kungfu panda, lance epic, martis zodiac dan masih banyak yang bagus',
+    price: 105000,
+    status: 'available'
   },
   {
     id: 'ml-002',
