@@ -27,8 +27,8 @@ export interface ProductCategory {
 export const freeFireStock: StockItem[] = [
   {
     id: 'ff-001',
-    name: '',
-    details: '',
+    name: '12',
+    details: 'ada',
     price: '1000',
     status: 'sold'
   },
