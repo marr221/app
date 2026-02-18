@@ -29,7 +29,7 @@ export const freeFireStock: StockItem[] = [
     id: 'ff-001',
     name: '12',
     details: 'ada',
-    price: '1000',
+    price: 1000,
     status: 'sold'
   },
   {
