@@ -262,11 +262,11 @@ export const otherProducts = [
   },
   {
     id: 'streaming',
-    name: 'Akun Streaming Premium',
+    name: 'Nomor kosong (nokos)',
     category: 'Entertainment',
-    price: 'Rp 2.000 - 50.000',
-    description: 'Akun Netflix, Spotify, Disney+, YouTube Premium, dan layanan streaming lainnya dengan harga terjangkau. Full garansi.',
-    icon: 'Crown',
+    price: 'Rp 2.000 - 15.000',
+    description: 'Tersedia nomor kosong whatsapp, telegram, dana, facebook, instagram, gojek DLL',
+    icon: 'telephone',
     badge: 'Hemat'
   }
 ];
